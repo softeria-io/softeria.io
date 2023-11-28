@@ -28,7 +28,7 @@ twitter_username: softeria_io
 github_username:  softeria-io
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
