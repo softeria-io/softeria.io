@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "softeria.io \\| Let's build the best together"
+title: "softeria.io | Let's build the best together"
 email: info@softeria.io
 description: >- # this means to ignore newlines until "baseurl:"
   Let's make it happen together
