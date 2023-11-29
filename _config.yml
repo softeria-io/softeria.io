@@ -26,7 +26,7 @@ description              : "Let's build the best together"
 url                      : "https://softeria.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/apple-touch-icon.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/apple-touch-icon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "softeria.io" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
