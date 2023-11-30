@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "softeria.io | Let's build the best together"
+title                    : "softeria.io \\| Let's build the best together"
 title_separator          : "|"
 subtitle                 : "Agile | Innovative | Perfectionist" # site tagline that appears below site title in masthead
 name                     : "softeria.io"
